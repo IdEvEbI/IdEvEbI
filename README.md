@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 ![IdEvEbI's github stats](https://github-readme-stats.vercel.app/api?username=idevebi&show_icons=true&theme=cobalt)
+
+- 2018 年：**量级**，希望能够影响并帮助更多的人
+- 2019 年：**系统**，希望引入系统管理，提高组织效能
+- 2020 年：**重构**，希望重新构建自己的知识体系
+- 2021 年：**拆解**，希望将工作化繁为简，找到真问题，并抓住核心工作
 
 <!--
 **IdEvEbI/IdEvEbI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
