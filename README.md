@@ -5,7 +5,7 @@
 - 2018 年：**量级**，希望能够影响并帮助更多的人
 - 2019 年：**系统**，希望引入系统管理，提高组织效能
 - 2020 年：**重构**，希望重新构建自己的知识体系
-- 2021 年：**教练**，希望以教练的身份和姿态，培养团队核心骨干和接班人
+- 2021 年：**教练**，希望以教练的方式培养更多核心骨干
 
 <!--
 **IdEvEbI/IdEvEbI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
