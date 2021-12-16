@@ -8,7 +8,7 @@
 - 2019 年：**系统**，希望引入系统管理，提高组织效能
 - 2020 年：**重构**，希望重新构建自己的知识体系
 - 2021 年：**教练**，希望以教练的方式培养更多核心骨干
-- 2022 年：**链接**，希望实现从 Leader 到 Linker 的过渡
+- 2022 年：**链接**，希望实现从 Leader 到 Linker 的转变
 
 <!--
 **IdEvEbI/IdEvEbI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
