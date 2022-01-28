@@ -10,6 +10,8 @@
 - 2021 年：**教练**，希望以教练的方式培养更多核心骨干
 - 2022 年：**链接**，希望实现从 Leader 到 Linker 的转变
 
+我是一名老师，更是一名学生，学习学习再学习，做一个终生学习者。
+
 <!--
 **IdEvEbI/IdEvEbI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
