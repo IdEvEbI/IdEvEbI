@@ -20,9 +20,11 @@
 
 ## 📊 GitHub Stats
 
-![IdEvEbI's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdEvEbI&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117)
+<!-- 使用 github-readme-stats-fast 替代原 vercel.app 公共实例，避免因服务不稳定导致图片无法加载 -->
+![IdEvEbI's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=IdEvEbI&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=IdEvEbI&theme=cobalt&hide_border=true&background=0D1117)
+<!-- Streak 使用官方更新后的域名 streak-stats.demolab.com -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=IdEvEbI&theme=cobalt&hide_border=true&background=0D1117)
 
 ---
 
